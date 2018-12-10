@@ -31,6 +31,7 @@ The Important Questions
 > 3. The combinations $cu + dv + ew$ fill **three-dimensional space**.(The line $ew$ is not in the plane of $u$ and $v$.)
 
 ### 1.2 Lengths and Dot Products
+<<<<<<< HEAD:Introduction To Linear Algebra.md
 
 _Def:_
 
@@ -43,3 +44,5 @@ _Def:_
 > ​	 $length = \lVert v \rVert = \sqrt{v \cdot v}$
 >
 >
+=======
+>>>>>>> 34874bad5ae1b48401491e5e500398aeed0eb04f:Introduction-To-Linear-Algebra.md
